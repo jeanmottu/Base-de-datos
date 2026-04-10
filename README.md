@@ -76,3 +76,5 @@ from dueño
 select nombre, 
 datediff (DAY, nacimiento , getdate()) as dias
 from mascotas
+
+Ejercicio 3 8 de mayo
